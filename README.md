@@ -1,2 +1,2 @@
-# 201_analytics
-Compilation of Python scripts for use with Sharepoint and Office 365 applications for J Sterling High School District
+# 201analytics_proto
+a prototype application to query a data store that can generate information and insights on request for a user
